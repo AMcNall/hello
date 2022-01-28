@@ -1,6 +1,6 @@
 /**
  * Author: Andrew McNally
- *         amcnally@uno.edu
+ * amcnally@uno.edu
  * Date: 2022/01/28
  *
  * A simple hello world program in C
